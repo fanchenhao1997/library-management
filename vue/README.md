@@ -1,4 +1,4 @@
-# vue 123
+# vue 123 + B
 
 ## Project setup
 ```
